@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou Luiz Paulo Alves 👋</h1>
 
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre) • [Sua cidade, Estado] 🇧🇷</em>
-</p>
+  <em>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre) 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-paulo-alves-1a4b8938b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
