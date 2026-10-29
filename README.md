@@ -38,5 +38,5 @@ Estou no início da minha jornada em tecnologia e apaixonado(a) por aprender a c
 - **LinkedIn:** https://www.linkedin.com/in/luiz-paulo-alves-1a4b8938b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <p align="center">
-  <sub>⭐ Obrigado por visitar meu perfil!</sub>
+  <sub> Obrigado por visitar meu perfil!</sub>
 </p>
